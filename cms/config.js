@@ -32,6 +32,7 @@ export default {
                 name: 'hero_image',
                 widget: 'image'
               },
+              {label: "Body", name: "body", widget: "markdown", required: true},
             ],
           },
         ],
