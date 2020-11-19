@@ -40,7 +40,7 @@ export default {
       {
         name: "blog",
         label: "Blog",
-        folder: "content/posts",
+        folder: "content/blog",
         create: true,
         slug: "{{slug}}",
         sort: "date:desc",
