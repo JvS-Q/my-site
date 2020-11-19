@@ -3,10 +3,10 @@ export default {
     backend: {
       name: 'github',
       repo: 'lhstraathof/my-site',
-      branch: 'main',
+      branch: 'master',
     },
-    media_folder: 'public/assets/uploads',
-    public_folder: 'img',  
+    media_folder: 'public/assets/img',
+    public_folder: 'assets/img',  
     collections: [
       {
         name: 'pages',
